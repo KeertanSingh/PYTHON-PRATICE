@@ -1,0 +1,10 @@
+keerat = set([1,2,3,4])
+aya = set([3,4,5,6])
+# print(type(keerat))
+# keerat.add(12)
+union =keerat.union(aya)
+intersection = keerat.intersection(aya)
+print(union)
+print(intersection)
+
+print(keerat)
