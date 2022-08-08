@@ -1,0 +1,5 @@
+a = int(input("Enter a :"))
+b = int(input("Enter b :"))
+if a > b: print("A is greater than b")
+elif a == b: print("A is equal to b")
+else:print("b is greater than a")
