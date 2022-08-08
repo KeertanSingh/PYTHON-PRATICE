@@ -1,0 +1,8 @@
+joker
+mail
+keerat
+singh
+kaur
+text
+robots.txt 
+index.html

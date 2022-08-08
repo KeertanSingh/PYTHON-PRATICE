@@ -1,0 +1,16 @@
+Online library system 
+
+create a library class
+      display book
+      lend book
+      add book
+      return book
+
+KeeratLibrary = Library(listOfBooks, library_name)
+
+
+dictionary
+books-nameofperson
+
+
+create a main functio and run an infinite while loop loop asking users for their input

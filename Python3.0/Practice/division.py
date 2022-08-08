@@ -1,0 +1,6 @@
+dividend = float(input("Enter Dividend Number : "))
+divisor = float(input("Enter Divisor Number : "))
+remainder = int(dividend % divisor)
+quotient = int(dividend//divisor)
+print(f"Quotient : {quotient}")
+print(f"Remainder : {remainder}")
